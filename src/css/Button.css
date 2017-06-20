@@ -1,0 +1,13 @@
+.button {
+	border: 1px solid black;
+	cursor: pointer;
+	display: inline-block;
+	margin: 10px;
+	min-width: 80px;
+	max-width: 150px;
+	padding: 10px;
+}
+
+.button:hover {
+	
+}

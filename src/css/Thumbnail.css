@@ -1,0 +1,10 @@
+.thumbnail {
+	cursor: pointer;
+	height: 30px;
+	margin: 4px;
+	width: 30px;
+}
+
+.thumbnail.selected {
+	border: 1px solid black;
+}
